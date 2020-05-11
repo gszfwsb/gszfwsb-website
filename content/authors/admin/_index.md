@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Steven Wang
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Undergraduate Student of Harbin Institute of Technology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Harbin Institute of Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Computer Vision, Machine Learning and Vision-and-Language.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer Vision
+- Machine Learning
 
 education:
   courses:
