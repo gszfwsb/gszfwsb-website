@@ -6,12 +6,13 @@
 [en]
   languageCode = "en-us"
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  title = "Steven Wang"
 
 # Uncomment the lines below to configure your website in a second language.
 [zh]
   languageCode = "zh-Hans"
   contentDir = "content/zh"
-  title = "Chinese website title..."
+  title = "王少博"
   [zh.params]
     description = "Site description in Chinese..."
   [[zh.menu.main]]
