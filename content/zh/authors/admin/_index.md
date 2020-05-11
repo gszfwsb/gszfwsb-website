@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Steven Wang
+title: 王少博
 
 # Username (this should match the folder name)
 authors:
@@ -10,25 +10,24 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate Student of Harbin Institute of Technology
+role: 哈尔滨工业大学（威海）18级软件工程专业本科生
 
 # Organizations/Affiliations
 organizations:
-- name: Intelligent Vision Lab
+- name: 智能视觉实验室
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Computer Vision, Machine Learning and Vision-and-Language.
+bio: 研究方向包括图像去噪、图追踪网络等。
 
 interests:
-- Artificial Intelligence
-- Computer Vision
-- Machine Learning
+- 人工智能
+- 计算机视觉
+- 机器学习
 
 education:
   courses:
-  - course: Undergraduate in Software Engineering
-    institution: Harbin Institute of Technology
+  - course: 哈尔滨工业大学（威海），软件工程
     year: 2018
 
 # Social/Academic Networking
@@ -68,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Steven Wang is an undergraduate student of Software Engineering in Harbin Institute of Technology. His research interests include Computer Vision, Machine Learning and Vision-and-Language. He leads the Intelligent Vision Lab group of Harbin Institute of Technology(Weihai), instructed by Professor Shengping Zhang and Yuankai Qi. 
+我是一名来自哈尔滨工业大学（威海）的本科学生。在校期间，我一直保持专业第一名。同时我加入了学校的智能视觉实验室进行计算机视觉研究，研究方向包括图像去噪和图追踪网络，师从张盛平、齐元凯老师。
