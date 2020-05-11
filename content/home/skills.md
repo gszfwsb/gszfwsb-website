@@ -27,7 +27,7 @@ subtitle = ""
   description = "Champion of Anhui Province"  
 
 [[feature]]
-  icon = "piano"
+  icon = "music"
   icon_pack = "fas"
   name = "Piano"
   description = "Over ten years practice"
