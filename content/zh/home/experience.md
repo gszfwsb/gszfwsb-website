@@ -18,51 +18,49 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Researcher"
-  company = "Intelligent Vision Lab"
+  title = "研究员"
+  company = "智能视觉实验室"
   company_url = ""
-  location = "Weihai"
+  location = "威海"
   date_start = "2019-08-01"
   date_end = ""
   description = """
 
-Conduct Computer Vision researhes.
+计算机视觉研究
 
-Responsibilities include:
+研究工作:
 
-- Research primarily on image denoising methods in different areas, including spatial methods,
-    wavelet methods, hybrid noise and deep learning(CNN-based) methods
-- Currently work on the field of vision-and-language and visual tracking methods
+- 图像去噪（文档去噪）
+- 视觉跟踪（图跟踪网络）
 
 """
 
 [[experience]]
-  title = "Intership"
-  company = "Tsinghua University"
+  title = "实习"
+  company = "清华大学地球科学系"
   company_url = ""
-  location = "Beijing"
+  location = "北京"
   date_start = "2020-02-20"
   date_end = ""
   description = """
 
-Responsibilities include:
+实习工作:
 
-- Utilize remote sensing satellite images to extract semantic segmentation and spatial
-    information and combine with regional meteorological information processing in Brasilia
-- Apply fast.ai + pytorch in building LSTM neural network for time-series modeling and compare
-    the result with traditional vector incidence model
-- Modify the model with more spatial-related information and use spatiotemporal method
-    convLSTM to enhance the ability of the time-series model
+- 利用遥感卫星图像语义分割提取空间信息，结合巴西利亚地区气象信息的数据预处理
+- 利用fast.ai+pytorch构建LSTM模型构建循环神经网络，进行对于时间序列进行建模
+- 对比传统流行病学模型，如ARIMA等。结合深度学习优势和流行病学的时滞效应预测模型
+- 很好地预测巴西利亚地区33个行政单元内部的发病率情况，且利用dropout方法预测置信区间
+    结合空间因素利用convLSTM模型进行进一步改进
 
 """
 
 [[experience]]
-  title = "Undergraduate Student"
-  company = "Harbin Institute of Technology"
+  title = "本科生"
+  company = "哈工大"
   company_url = ""
-  location = "Weihai"
+  location = "威海"
   date_start = "2018-09-01"
   date_end = ""
-  description = """Major: Software Engineering"""
+  description = """软件工程专业"""
 
 +++

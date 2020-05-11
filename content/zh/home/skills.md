@@ -17,19 +17,19 @@ subtitle = ""
 [[feature]]
   icon = "python"
   icon_pack = "fab"
-  name = "Coding"
-  description = "High level manipulation"
+  name = "编码"
+  description = "精湛的代码能力"
 
 [[feature]]
   icon = "chess-king"
   icon_pack = "fas"
-  name = "Chess"
-  description = "Champion of Anhui Province"  
+  name = "国际象棋"
+  description = "多年全省冠军"  
 
 [[feature]]
   icon = "music"
   icon_pack = "fas"
-  name = "Piano"
-  description = "Over ten years practice of piano"
+  name = "钢琴演奏"
+  description = "十余年的刻苦训练"
 
 +++
