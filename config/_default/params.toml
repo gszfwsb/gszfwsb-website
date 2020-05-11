@@ -90,10 +90,10 @@ address = {street = "Wenhua Western Road", city = "Weihai", region = "SD", postc
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "37.530620", longitude = "122.080466"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = "Welcome to HITwh!"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
