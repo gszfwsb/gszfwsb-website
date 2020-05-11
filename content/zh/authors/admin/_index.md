@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 哈尔滨工业大学（威海）18级软件工程专业本科生
+role: 哈尔滨工业大学（威海），软件工程
 
 # Organizations/Affiliations
 organizations:
@@ -27,7 +27,8 @@ interests:
 
 education:
   courses:
-  - course: 哈尔滨工业大学（威海），软件工程
+  - course: 软件工程
+	institution: 哈尔滨工业大学（威海）
     year: 2018
 
 # Social/Academic Networking

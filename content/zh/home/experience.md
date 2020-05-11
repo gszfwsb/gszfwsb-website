@@ -56,11 +56,11 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "本科生"
-  company = "哈工大"
+  company = "哈尔滨工业大学"
   company_url = ""
-  location = "威海"
+  location = "威海，山东"
   date_start = "2018-09-01"
   date_end = ""
-  description = """软件工程专业"""
+  description = """软件工程"""
 
 +++
