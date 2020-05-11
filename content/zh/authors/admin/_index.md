@@ -27,8 +27,7 @@ interests:
 
 education:
   courses:
-  - course: 软件工程
-	institution: 哈尔滨工业大学（威海）
+  - course: 软件工程，哈工大（威海）
     year: 2018
 
 # Social/Academic Networking
