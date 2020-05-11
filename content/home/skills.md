@@ -30,6 +30,6 @@ subtitle = ""
   icon = "music"
   icon_pack = "fas"
   name = "Piano"
-  description = "Over ten years practice"
+  description = "Over ten years practice of piano"
 
 +++

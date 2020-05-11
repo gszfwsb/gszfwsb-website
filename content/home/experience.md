@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-Conduct Computer Vision Researhes.
+Conduct Computer Vision researhes.
 
 Responsibilities include:
 
@@ -37,7 +37,7 @@ Responsibilities include:
 """
 
 [[experience]]
-  title = "Researcher"
+  title = "Intership"
   company = "Tsinghua University"
   company_url = ""
   location = "Beijing"
