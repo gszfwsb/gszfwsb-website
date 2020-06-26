@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Steven Wang is an undergraduate student of Software Engineering in Harbin Institute of Technology. His research interests include Computer Vision, Machine Learning and Vision-and-Language. He leads the Intelligent Vision Lab group of Harbin Institute of Technology(Weihai), instructed by Professor Shengping Zhang and Yuankai Qi. 
+Steven Wang is an undergraduate student of Software Engineering in Harbin Institute of Technology. His research interests include Computer Vision, Machine Learning and Vision-and-Language. He is the member of Intelligent Vision Lab group of Harbin Institute of Technology(HITWH), instructed by Professor Shengping Zhang and Yuankai Qi. He is also a intern of Explainable AI Group of Shanghai Jiaotong Universiry(SJTU), instructed by Professor Quanshi Zhang. 
