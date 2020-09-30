@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "研究员"
+  title = "研究助理"
   company = "智能视觉实验室"
   company_url = ""
   location = "威海"
@@ -30,8 +30,8 @@ date_format = "Jan 2006"
 
 研究工作:
 
-- 图像去噪（文档去噪）
-- 视觉跟踪（图跟踪网络）
+- 图像去噪
+- 风格迁移
 
 """
 
