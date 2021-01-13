@@ -10,25 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: 哈尔滨工业大学（威海），软件工程
+role: 清华大学&上海交通大学科研助理
 
 # Organizations/Affiliations
 organizations:
-- name: 智能视觉实验室
+- name: 清华大学交叉信息学院&上海交通大学John Hopcroft Center
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 研究方向包括图像去噪、风格迁移等。
+bio: 研究方向：可解释性机器学习、跨模态和无监督学习
 
 interests:
-- 人工智能
-- 计算机视觉
-- 机器学习
+- 可解释性AI
+- 跨模态
+- 无监督学习
 
 education:
   courses:
-  - course: 软件工程，哈工大（威海）
-    year: 2018
+  - course: 软件工程，哈工大
+    year: 2022
+  - course: 竞赛班，合肥一中
+	year: 2018
+	
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -68,4 +72,5 @@ user_groups:
 - Visitors
 ---
 
-我是一名来自哈尔滨工业大学（威海）的本科学生。在校期间，我一直保持专业第一名。同时我加入了学校的智能视觉实验室进行计算机视觉研究，研究方向包括图像去噪和风格迁移，师从张盛平老师。
+我是一名来自哈尔滨工业大学的2018级软件工程本科生。在校期间，我一直保持专业前1%，目前GPA 3.96/4.0。我的研究方向为可解释性机器学习（师从张拳石老师）。
+

@@ -10,26 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate Student of Harbin Institute of Technology
+role: Research Assistant at Tsinghua University(THU) & Shanghai Jiaotong University(SJTU)
 
 # Organizations/Affiliations
 organizations:
-- name: Intelligent Vision Lab
+- name: THU and SJTU
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Computer Vision, Machine Learning and Vision-and-Language.
+bio: My research interests include Computer Vision, Machine Learning, especially on eXplainable AI(XAI), Self-Supervised Learning and Cross-Modal Learning.
 
 interests:
-- Artificial Intelligence
-- Computer Vision
-- Machine Learning
+- Explainable AI
+- Self-Supervised Learning
+- Cross-Modal Learning
 
 education:
   courses:
-  - course: Undergraduate in Software Engineering
+  - course: BSc in Software Engineering
     institution: Harbin Institute of Technology
-    year: 2018
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Steven Wang is an undergraduate student of Software Engineering in Harbin Institute of Technology. His research interests include Computer Vision, Machine Learning. He is the member of Intelligent Vision Lab group of Harbin Institute of Technology(HITWH) that focuses on the researches on denoising and style-transfer respectively, instructed by Professor Shengping Zhang.
+Steven Wang is an undergraduate student of Software Engineering in Harbin Institute of Technology. His research interests include eXplainable AI(XAI), Self-Supervised Learning and Cross-Modal Learning. He is honored to be instructed by Prof.Quanshi Zhang at Shanghai Jiaotong University in his internship.
