@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Assistant at Tsinghua University(THU) & Shanghai Jiaotong University(SJTU)
+role: Research Assistant at Tsinghua University(THU), Shanghai Jiaotong University(SJTU)
 
 # Organizations/Affiliations
 organizations:
@@ -38,15 +38,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-#  link: '#contact'  
-# For a direct email link, use "mailto:test@example.org".
   link: 'mailto:hiterwsb@gmail.com'
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/gszfwsb/
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?#user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/hitergszf
