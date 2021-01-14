@@ -27,8 +27,7 @@ interests:
 
 education:
   courses:
-  - course:  软件工程
-   institution: 哈工大
+  - course:  软件工程，哈工大
    year: 2022
 
 # Social/Academic Networking
