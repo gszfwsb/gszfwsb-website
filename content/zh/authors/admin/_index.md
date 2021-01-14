@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 研究方向：可解释性机器学习、跨模态和无监督学习
+bio: 研究方向为可解释性机器学习、跨模态和无监督学习
 
 interests:
 - 可解释性AI
@@ -27,8 +27,9 @@ interests:
 
 education:
   courses:
-  - course: 软件工程，哈工大
-    year: 2022
+  - course:  软件工程
+   institution: 哈工大
+   year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -58,8 +59,8 @@ social:
 email: "181110315@stu.hit.edu.cn"
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:[]
+#  Set this to `[]` or comment out if you are not using People widget.
+# user_groups:
 ---
 
 我是一名来自哈尔滨工业大学的2018级软件工程本科生。在校期间，我一直保持专业前1%，目前GPA 3.96/4.0。我的研究方向为可解释性机器学习（师从张拳石老师）。
