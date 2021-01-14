@@ -10,8 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Assistant at Tsinghua University(THU), Shanghai Jiaotong University(SJTU)
-
+role: Research Assistant at THU and SJTU
 # Organizations/Affiliations
 organizations:
 - name: THU and SJTU
@@ -60,9 +59,7 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+user_groups:[]
 ---
 
 Steven Wang is an undergraduate student of Software Engineering in Harbin Institute of Technology. His research interests include eXplainable AI(XAI), Self-Supervised Learning and Cross-Modal Learning. He is honored to be instructed by Prof.Quanshi Zhang at Shanghai Jiaotong University in his internship.
