@@ -11,6 +11,7 @@ superuser: true
 
 # Role/position
 role: Research Assistant at THU and SJTU
+
 # Organizations/Affiliations
 organizations:
 - name: THU and SJTU
@@ -55,7 +56,7 @@ social:
   link: files/ShaoboWang.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "181110315@stu.hit.edu.cn"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

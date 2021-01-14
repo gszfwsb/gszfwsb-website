@@ -29,10 +29,6 @@ education:
   courses:
   - course: 软件工程，哈工大
     year: 2022
-  - course: 竞赛班，合肥一中
-	year: 2018
-	
-
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,14 +37,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
   link: 'mailto:hiterwsb@gmail.com'
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/gszfwsb/
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?#user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/hitergszf
