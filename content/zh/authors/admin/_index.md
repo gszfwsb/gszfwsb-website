@@ -10,25 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: 清华大学&上海交通大学科研助理
+role: 清华大学/上海交通大学研究助理
 
 # Organizations/Affiliations
 organizations:
-- name: 清华大学交叉信息学院&上海交通大学John Hopcroft Center
+- name: 清华大学，上交大和哈工大
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 研究方向为可解释性机器学习、跨模态和无监督学习
+bio: 我的研究方向为可解释性AI，半监督学习和跨模态学习，目前为哈工大大三学生。曾在清华大学参与疫情时空序列预测研究，目前在上海交通大学John Hopcroft Center实习，师从张拳石教授。
 
 interests:
 - 可解释性AI
-- 跨模态
-- 无监督学习
+- 半监督学习
+- 跨模态学习
 
 education:
   courses:
-  - course:  软件工程，哈工大
-   year: 2022
+  - course: 软件工程学士
+    institution: 哈尔滨工业大学
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,9 +48,6 @@ social:
 - icon: zhihu
   icon_pack: fab
   link: https://www.zhihu.com/people/hiterwsb
-- icon: 
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to #static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
   link: files/wsb.pdf
@@ -57,9 +55,6 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "181110315@stu.hit.edu.cn"
 
-# Organizational groups that you belong to (for People widget)
-#  Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
 ---
 
 我是一名来自哈尔滨工业大学的2018级软件工程本科生。在校期间，我一直保持专业前1%，目前GPA 3.96/4.0。我的研究方向为可解释性机器学习（师从张拳石老师）。
